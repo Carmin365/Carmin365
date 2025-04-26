@@ -1,4 +1,4 @@
-# Olá sou Designer Gráfico Freelancer 
+# Olá sou UX/UI Designer Freelancer 
 # e Analista de Sistemas.
 #
 ### Acesse minhas redes sociais para conhecer meus trabalhos: 
