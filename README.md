@@ -1,6 +1,5 @@
-# Olá sou UX/UI Designer Freelancer 
-# e Analista de Sistemas.
+# Olá sou Analista de Sistemas Freelancer - +20xp
 #
-### Acesse minhas redes sociais para conhecer meus trabalhos: 
+### Acesse minhas redes sociais para conhecer meus projetos: 
 ### @carmin.portfolio | @car.dsgn.coder 
 #
