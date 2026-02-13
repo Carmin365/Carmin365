@@ -1,5 +1,5 @@
 # Olá sou Analista de Sistemas | +20Xp
 #
-### Acesse minhas redes sociais para conhecer meus projetos: 
-### @carmin.portfolio | @car.dsgn.coder 
+### Sou especialista no ecossistema JavaScript - Node, React, MongoDB & TypeScript;
+### Uso mmuito Java e Python tbm.
 #
